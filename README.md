@@ -50,9 +50,9 @@ This project is built using object-oriented programming (OOP) principles, featur
 
 ## Usage
 ```
-    Create instances of Primary, Middle, and High schools to populate the catalogue.
-    Utilize the .quickFacts() method to retrieve quick summaries.
-    Use .pickSubstituteTeacher() to randomly select a substitute teacher.
+Create instances of Primary, Middle, and High schools to populate the catalogue.
+Utilize the .quickFacts() method to retrieve quick summaries.
+Use .pickSubstituteTeacher() to randomly select a substitute teacher.
 
 ```
 ### Example
