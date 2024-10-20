@@ -6,7 +6,7 @@ The School Catalogue is a digital reference system designed for the New York Cit
 
 ## Project Structure
 
-This project is built using object-oriented programming (OOP) principles, featuring a parent class School and three child classes: Primary, Middle, and High. The inheritance structure allows for shared properties and methods while enabling specialisation for different school types.
+This Codecademy Intermediate JavaScript project is built using object-oriented programming (OOP) principles, featuring a parent class School and three child classes: Primary, Middle, and High. The inheritance structure allows for shared properties and methods while enabling specialisation for different school types.
 
 ## Requirements
 
