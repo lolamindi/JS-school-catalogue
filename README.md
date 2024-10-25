@@ -56,7 +56,7 @@ Use .pickSubstituteTeacher() to randomly select a substitute teacher.
 
 ```
 ### Example
-```
+```javascript 
 const mySchool = new High("Lincoln High", "high", 1200, ["Basketball", "Soccer"]);
 console.log(mySchool.quickFacts());
 console.log(High.pickSubstituteTeacher());
